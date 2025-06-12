@@ -105,3 +105,6 @@ SAMPLE OUTPUT
 
 LICENSE
 This project is licensed under the MIT License.
+ScreenShots:![Screenshot 2025-06-11 145602](https://github.com/user-attachments/assets/b1fbf57a-7d11-4e9f-b13b-a9a12e9a107e)
+
+
