@@ -64,3 +64,6 @@ CREATE TABLE products (
 
 LICENSE
 This project is licensed under the MIT License.
+
+![1 pg](https://github.com/user-attachments/assets/cf64ca43-85f6-4394-9b4e-038a3d16599e)
+![2 pg](https://github.com/user-attachments/assets/6fbd3053-521a-4edc-9973-c49c89eaa792)
