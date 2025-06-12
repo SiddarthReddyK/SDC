@@ -46,4 +46,4 @@ Works offline and doesn't require server deployment for basic use.
 ![Screenshot 2025-06-11 200903](https://github.com/user-attachments/assets/218f0db4-1d76-4f38-badf-0e411798053f)
 ![Screenshot 2025-06-11 200926](https://github.com/user-attachments/assets/eaa59b15-9f68-429f-b993-b855c015b662)
 ![Screenshot 2025-06-11 200944](https://github.com/user-attachments/assets/2977714c-2c40-4c9f-9122-9dce59fab7eb)
-
+![Screenshot 2025-06-11 201002](https://github.com/user-attachments/assets/63dcf230-8984-4620-860e-7d4f314c6678)
