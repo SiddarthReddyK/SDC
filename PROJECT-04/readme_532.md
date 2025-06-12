@@ -88,7 +88,8 @@ function updateWeatherDisplay(data) {
 - Error handling
 
 ## Screenshots
-[Include screenshots of the application]
+![Screenshot 2025-06-11 143556](https://github.com/user-attachments/assets/f34e1b9c-5436-46ce-98ab-cbcb5318c525)
+![Screenshot 2025-06-11 143522](https://github.com/user-attachments/assets/485bbebd-1227-4875-b0dd-ba976a2d1a30)
 
 ## Future Improvements
 - Add 5-day forecast
