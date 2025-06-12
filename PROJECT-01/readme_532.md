@@ -60,6 +60,9 @@ PROJECT-01/
   - Cross-browser compatibility
 
 ## Screenshots
+![Screenshot 2025-06-11 141657](https://github.com/user-attachments/assets/44c9c513-f0ca-490f-af4d-996e2603c06b)
+![Screenshot 2025-06-11 141837](https://github.com/user-attachments/assets/e0315643-0c73-4088-84dd-fd02b9a57c79)
+![Screenshot 2025-06-11 141955](https://github.com/user-attachments/assets/06fd02e0-78b5-4523-8583-aaf7dcd67164)
 ![Screenshot 2025-06-11 142021](https://github.com/user-attachments/assets/5dd124d6-4f28-4941-bccd-c98bb00c9cbe)
 
 
