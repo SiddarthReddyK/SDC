@@ -66,7 +66,7 @@ PROJECT-02/
 - CSS styling fundamentals
 
 ## Screenshots
-[Include screenshots of the implementation]
+![Screenshot 2025-06-11 142638](https://github.com/user-attachments/assets/2de8a3aa-d27c-425b-a9d2-8fefa0c781e0)
 
 ## Future Improvements
 - Add more interactive examples
