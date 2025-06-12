@@ -90,7 +90,9 @@ PROJECT-03/
 - Best practices in CSS
 
 ## Screenshots
-[Include screenshots of the implementations]
+![Screenshot 2025-06-11 143150](https://github.com/user-attachments/assets/e2524205-3028-4160-881c-a6d249e58da7)
+![Screenshot 2025-06-11 143221](https://github.com/user-attachments/assets/c9e9a203-d2b6-4519-b265-d5e2b5709717)
+![Screenshot 2025-06-11 143252](https://github.com/user-attachments/assets/d521aad5-8a47-403c-8973-1ae98a43fa7f)
 
 ## Future Improvements
 - Add CSS Grid examples
