@@ -484,3 +484,9 @@ Edit
 </body>
 </html>
 Connects the logic: Links the JavaScript file that handles registration, login, book actions, and UI updates.
+  10.ScreenShots
+  ![Screenshot 2025-06-11 144201](https://github.com/user-attachments/assets/3592fed1-4eb5-4e11-83cc-086a3f380e23)
+  ![Screenshot 2025-06-11 144255](https://github.com/user-attachments/assets/8e0035cb-1f4c-45d6-969a-c5040e10c1a0)
+![Screenshot 2025-06-11 144324](https://github.com/user-attachments/assets/2bd09dd7-6af4-4dcb-b9ca-59abb938c723)
+![Screenshot 2025-06-11 144434](https://github.com/user-attachments/assets/36623467-1ff6-491f-945a-c9c105a3ab60)
+
